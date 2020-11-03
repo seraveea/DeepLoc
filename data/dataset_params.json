@@ -1,0 +1,8 @@
+{
+    "train_size": 9802,
+    "dev_size": 2101,
+    "test_size": 2101,
+    "vocab_size": 25,
+    "number_of_classes": 10,
+    "pad_word": "<pad>"
+}
